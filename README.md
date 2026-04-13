@@ -10,9 +10,9 @@ make
 
 This will generate the executable:
 
-```
+``
 group10_manager
-```
+``
 
 Run the program and save the output to a file:
 
