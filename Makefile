@@ -4,8 +4,8 @@
 
 CC      = gcc
 CFLAGS  = -Wall -Wextra -std=c11 -O2
-TARGET  = group1_manager
-SRC     = group1_manager.c
+TARGET  = group10_manager
+SRC     = group10_manager.c
 
 .PHONY: all clean
 
