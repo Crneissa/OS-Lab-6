@@ -14,7 +14,7 @@ This will generate the executable:
 group10_manager
 ``
 
-Run the program and save the output to a file:
+Run the program with the input txt and save the output to a file:
 
 ```bash
 ./group10_manager < addresses.txt > output.txt
