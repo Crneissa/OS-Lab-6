@@ -1,5 +1,22 @@
-# OS-Lab-6
+# OS Lab 6
 
-## To Run (in Linux):
-$ make
-$ ./group10_manager < addresses.txt > output.txt
+## Instructions
+
+In Linux terminal run:
+
+```bash
+make
+```
+
+This will generate the executable:
+
+```
+group10_manager
+```
+
+Run the program and save the output to a file:
+
+```bash
+./group10_manager < addresses.txt > output.txt
+```
+
